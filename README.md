@@ -8,5 +8,5 @@
 
 ## 简历
 
-- md版：
-- pdf版：
+- md 版：**[Markdown](https://github.com/didikee/Job/blob/master/%E7%AE%80%E5%8E%86.md)**
+- pdf 版：**[PDF](https://github.com/didikee/Job/blob/master/%E7%AE%80%E5%8E%86.pdf)**
