@@ -1,6 +1,6 @@
 # Job
 
-需找一份 Android 开发工作,有意者请联系我,谢谢 Email: [didikee@outlook.com](didikee@outlook.com)
+寻找一份 Android 开发工作,有意者请联系我,谢谢 Email: [didikee@outlook.com](didikee@outlook.com)
 
 目前已离职
 
